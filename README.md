@@ -62,4 +62,3 @@
 	<li>在 Github 存储图片，利于博主对于图片的掌控。</li>
 	<li>使用 PicGo 的原因是因为能够方便地将上传图片到 Github，并直接获取 jsDelivr 的加速后的图片地址。</li>
 </ul>                                    </div><div data-report-view="{&quot;mod&quot;:&quot;1585297308_001&quot;,&quot;dest&quot;:&quot;https://blog.csdn.net/CQG1988/article/details/101652805&quot;,&quot;extend1&quot;:&quot;pc&quot;,&quot;ab&quot;:&quot;new&quot;}"><div></div></div>
-                                </div>
